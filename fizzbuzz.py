@@ -1,6 +1,6 @@
 
 def fizzbuzz(num):
-    print "Fizzbuzz test starts"
+    print "Fizzbuzz test starts Change1"
     for i in range(1,num):
         if (i%3==0 and i%5==0): print "FizzBuzz"
         elif i % 3 == 0: print "Fizz"
